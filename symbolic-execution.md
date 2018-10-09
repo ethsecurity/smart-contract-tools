@@ -6,7 +6,7 @@ The results they provide may include false positives, so care should be taken wh
 ## Manticore ([link](https://github.com/trailofbits/manticore))
 Popular symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 
-## Mythril ([link](https://github.com/b-mueller/mythril/))
+## Mythril ([link](https://www.github.com/ConsenSys/mythril/))
 Popular security analysis framework for Ethereum smart contracts built around a symbolic execution engine with custom detector modules
 
 ## KEVM ([link](https://github.com/kframework/evm-semantics))
