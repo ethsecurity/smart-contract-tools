@@ -11,6 +11,7 @@ as well as the [ConsenSys Best Practices](https://github.com/ConsenSys/smart-con
 * [Symbolic Execution](symbolic-execution.md)
 * [Fuzzers and Property Checkers](fuzzing.md)
 * [Coverage](coverage.md)
+* [Disassembly](disassembly.md)
 
 ## Contributing
 Feel free to submit a PR to add more tools.

@@ -8,3 +8,7 @@ Popular symbolic execution tool for Ethereum smart contracts that includes detec
 
 ## Mythril ([link](https://github.com/b-mueller/mythril/))
 Popular security analysis framework for Ethereum smart contracts built around a symbolic execution engine with custom detector modules
+
+## KEVM ([link](https://github.com/kframework/evm-semantics))
+K Semantics of the Ethereum Virtual Machine (EVM)
+Used to evaluate semantic equivalency of programs
