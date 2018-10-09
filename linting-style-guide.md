@@ -13,3 +13,9 @@ A linter for both security and style-guide validations. It strictly adheres to t
 
 ## Solium ([link](https://github.com/duaraghav8/Solium))
 Another linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
+
+## Solcheck ([link](https://github.com/federicobond/solcheck))
+A linter for Solidity code written in JS and heavily inspired by eslint.
+
+## Solint ([link](https://github.com/weifund/solint))
+Solidity linting that helps you enforce consistent conventions and avoid errors in your Solidity smart-contracts.

@@ -11,8 +11,9 @@ Slither can map method visibility and modifiers, state variables that are read a
 ## Solgraph ([link](https://github.com/raineorshine/solgraph))
 Generates DOT graphs with function control flow of a solidity contract
 
-## Surya ([link](https://github.com/ConsenSys/surya))
-Generates various visual outputs of function call graphs
+## Sūrya ([link](https://github.com/ConsenSys/surya))
+Offers a number of visual outputs and information about the contracts' structure.
+Also supports querying the function call graph.
 
 ## sol-function-profiler ([link](https://github.com/EricR/sol-function-profiler))
 Solidity contract function profiler
