@@ -19,3 +19,6 @@ A linter for Solidity code written in JS and heavily inspired by eslint.
 
 ## Solint ([link](https://github.com/weifund/solint))
 Solidity linting that helps you enforce consistent conventions and avoid errors in your Solidity smart-contracts.
+
+## SmartCheck ([link](https://tool.smartdec.net/))
+A linter for Solidity and Vyper that checks code for security issues and bad practices.
