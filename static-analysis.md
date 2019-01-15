@@ -8,3 +8,6 @@ Static analysis tool from ChainSecurity
 
 ## Slither ([link](https://github.com/trailofbits/slither))
 Solidity static analysis framework, written in Python, with detectors for many common Solidity issues
+
+## SmartCheck ([link](https://tool.smartdec.net/))
+A linter for Solidity and Vyper that checks code for security issues and bad practices
